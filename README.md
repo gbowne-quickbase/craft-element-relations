@@ -43,7 +43,7 @@ Asset Overview Other Page
 Asset detail
 
 # Issues
-Please report any issues you find to the [Issues](https://github.com/internetztube/craft-structure-disable-reorder/issues) page.
+Please report any issues you find to the [Issues](https://github.com/internetztube/craft-element-relations/issues) page.
 
 
 Brought to you by [Frederic Koeberl](https://frederickoeberl.com/)
